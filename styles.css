@@ -8,7 +8,7 @@
 body {
   font-family: 'Roboto', sans-serif;
   background-color: #f1f8f6;
-  color: #333;
+  color: #fff;
   line-height: 1.6;
 }
 
@@ -16,15 +16,15 @@ header {
   position: fixed;
   width: 100%;
   top: 0;
-  background-color: #8fd9a8;
+  background-color: #0081AF;
   padding: 20px 0;
-  z-index: 1000;
+  z-index: 1051014;
 }
 
 header .logo {
   font-family: 'Lato', sans-serif;
   font-size: 30px;
-  color: #000;
+  color: #051014;
   text-align: center;
 }
 
@@ -34,7 +34,7 @@ header nav {
 }
 
 header nav a {
-  color: #000;
+  color: #051014;
   text-decoration: none;
   margin: 0 20px;
   font-size: 16px;
@@ -42,7 +42,7 @@ header nav a {
 }
 
 header nav a:hover {
-  color: #4f9b6f;
+  color: #226D88;
 }
 
 section {
@@ -50,10 +50,10 @@ section {
 }
 
 #hero {
-  background-color: #a2d5c6;
+  background-color: #009ACD;
   text-align: center;
   padding: 100px 20px;
-  color: #000;
+  color: #051014;
 }
 
 #hero h1 {
@@ -68,7 +68,7 @@ section {
 }
 
 .cta-btn {
-  background-color: #4f9b6f;
+  background-color: #226D88;
   color: white;
   padding: 15px 30px;
   text-decoration: none;
@@ -78,7 +78,7 @@ section {
 }
 
 .cta-btn:hover {
-  background-color: #6fbf7f;
+  background-color: #004C66;
 }
 
 h2 {
@@ -119,14 +119,14 @@ h2 {
 }
 
 .card .price {
-  color: #4f9b6f;
+  color: #226D88;
   font-weight: bold;
   margin-top: 10px;
 }
 
 .card button {
   margin-top: 15px;
-  background-color: #4f9b6f;
+  background-color: #226D88;
   color: white;
   padding: 10px 20px;
   border: none;
@@ -136,13 +136,13 @@ h2 {
 }
 
 .card button:hover {
-  background-color: #6fbf7f;
+  background-color: #004C66;
 }
 
 .card .telegram-link {
   margin-top: 10px;
   display: block;
-  color: #4f9b6f;
+  color: #226D88;
   text-decoration: none;
 }
 
@@ -161,7 +161,7 @@ h2 {
 }
 
 footer {
-  background-color: #333;
+  background-color: #fff;
   color: white;
   padding: 30px;
   text-align: center;
@@ -175,7 +175,7 @@ footer .social-icons a {
 }
 
 footer .social-icons a:hover {
-  color: #8fd9a8;
+  color: #0081AF;
 }
 
 /* Modal */
@@ -205,7 +205,7 @@ footer .social-icons a:hover {
 }
 
 .close-btn {
-  color: #333;
+  color: #fff;
   font-size: 30px;
   position: absolute;
   top: 10px;
@@ -217,7 +217,7 @@ footer .social-icons a:hover {
 .admin-section {
   display: none;
   margin-bottom: 50px;
-  background-color: #000;
+  background-color: #051014;
   padding: 20px;
   border-radius: 10px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
@@ -238,16 +238,16 @@ footer .social-icons a:hover {
 .admin-section form button {
   margin-bottom: 15px;
   padding: 10px;
-  border: 1px solid #ccc;
+  border: 1px solid #003547;
   border-radius: 5px;
 }
 
 .admin-section form button {
-  background-color: #4f9b6f;
+  background-color: #226D88;
   color: white;
   cursor: pointer;
 }
 
 .admin-section form button:hover {
-  background-color: #6fbf7f;
+  background-color: #004C66;
 }
