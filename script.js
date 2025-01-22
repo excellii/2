@@ -2,26 +2,26 @@
 const accounts = [
   { 
     id: 1, 
-    name: "Account 1", 
+    name: "حساب ببجي", 
     photos: ["photo1.jpg", "photo2.jpg", "photo3.jpg"], 
-    description: "A calming account with serene designs.",
-    price: "$45.99",
+    description: "حساب بي كلشي",
+    price: "Asiacell 45.000",
     telegramLink: "https://t.me/d_22d"
   },
   { 
     id: 2, 
-    name: "Account 2", 
+    name: "حساب انستا", 
     photos: ["photo4.jpg", "photo5.jpg"], 
-    description: "Elegance and simplicity in one.",
-    price: "$39.99",
+    description: "متابعين 35,000",
+    price: "Asiacell 39.000",
     telegramLink: "https://t.me/d_22d"
   },
   { 
     id: 3, 
-    name: "Account 3", 
+    name: "حساب تيك توك", 
     photos: ["photo6.jpg", "photo7.jpg", "photo8.jpg"], 
-    description: "Experience peace with each design.",
-    price: "$59.99",
+    description: "متابعين 35,000",
+    price: "Asiacell 50,000",
     telegramLink: "https://t.me/d_22d"
   },
   // More accounts...
